@@ -1,0 +1,15 @@
+torch>=2.0.0
+torchvision
+torchaudio
+torchdiffeq
+ray[train]
+exojax
+scikit-learn
+scipy
+pandas
+numpy
+matplotlib
+corner
+tqdm
+requests
+astropy
